@@ -1,0 +1,13 @@
+Ryan Rhoades [staff he/him]
+  1:54 PM
+@channel expected query answers:
+1. 2
+2. 5607
+3. Multiple films are tied at 8
+4. 0
+5. 1 - 8040
+6. 378
+7. film_id 508 - 15 actors
+8. 13
+9. 3
+10. 5 ratings, PG-13 has the most
